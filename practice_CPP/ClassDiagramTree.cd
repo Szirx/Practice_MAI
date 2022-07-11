@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Acid" Collapsed="true">
+    <Position X="13.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAEQAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Acid.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AcidCan" Collapsed="true">
+    <Position X="11" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAEAAAAAAAAACEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AcidCan.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppleTree" Collapsed="true">
+    <Position X="8.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAgEAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AppleTree.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bird" Collapsed="true">
+    <Position X="15.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIgAAAAAAAAAAAEAAAAAAAAAEEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bird.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Body" Collapsed="true">
+    <Position X="6.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAACQAUAABAABAAAAEAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Body.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IceCreamTree" Collapsed="true">
+    <Position X="4.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEABEAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IceCreamTree.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Location" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAIAAACAAYABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Location.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MultiTieredTree" Collapsed="true">
+    <Position X="8.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAEAAAAAAAAAAEAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>MultiTieredTree.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point" Collapsed="true">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAkAACEAAAAAAAAAAMAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Point.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TreeWithBranch" Collapsed="true">
+    <Position X="6.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAQAAEAAAAAAABAAAAAAA=</HashCode>
+      <FileName>TreeWithBranch.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Water" Collapsed="true">
+    <Position X="13.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAkAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Water.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WateringCan" Collapsed="true">
+    <Position X="11" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAEAAAAAAAAAAEAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>WateringCan.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ITree" Collapsed="true">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAECAAAAAAAEAAAAABAAAAEAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>ITree.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ABCCan" Collapsed="true">
+    <Position X="11" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAEAAAAgAAAAAkAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ABCCan.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AbsBody" Collapsed="true">
+    <Position X="6.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAUAADAIAAAAAEAAAAAAAAQEAABAA=</HashCode>
+      <FileName>AbsBody.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigTrash" Collapsed="true">
+    <Position X="12.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAEAAAAAAAAAAEQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BigTrash.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrokenBus" Collapsed="true">
+    <Position X="7.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAEAAAAAAAAAAEAAAAAAAAAACAAAA=</HashCode>
+      <FileName>BrokenBus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrokenTramway" Collapsed="true">
+    <Position X="3.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAEAAAAAAAAgAAEAAA=</HashCode>
+      <FileName>BrokenTramway.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrokenTrolleybus" Collapsed="true">
+    <Position X="9" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAEAAAAAAAAAAkAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BrokenTrolleybus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CrashedBus" Collapsed="true">
+    <Position X="5.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAEAAAAAAAAAAEABAAAAAAAAAAAAA=</HashCode>
+      <FileName>CrashedBus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CrashedTramway" Collapsed="true">
+    <Position X="1.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAACAAAAAAAEAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>CrashedTramway.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CrashedTrolleybus" Collapsed="true">
+    <Position X="11" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAgAAAAAAAEAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CrashedTrolleybus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="iTrash" Collapsed="true">
+    <Position X="12.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAEAAAABACAQEAAAAA=</HashCode>
+      <FileName>iTrash.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trash" Collapsed="true">
+    <Position X="12.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAUAADAAAAAAAMAAAAAAAAQEAABAA=</HashCode>
+      <FileName>Trash.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Location" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAIAAAAAAIABAAAAYAAAAAAAAAA=</HashCode>
+      <FileName>Location.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bus" Collapsed="true">
+    <Position X="6.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAEAAAAAAAIAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAkAACEAAAAAAAAAAMAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Point.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Body" Collapsed="true">
+    <Position X="6.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAEAABAAAAAAAEAAAAAAAAQEAAAAA=</HashCode>
+      <FileName>Body.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tramway" Collapsed="true">
+    <Position X="2.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAEAAAAAAQAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tramway.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trolleybus" Collapsed="true">
+    <Position X="10" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAEAAAAAAAAAAEABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Trolleybus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
