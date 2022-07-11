@@ -1,2 +1,0 @@
-Hello Git!
-I wrote this in GitHub!
